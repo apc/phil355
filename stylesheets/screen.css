@@ -1,20 +1,14 @@
 /*
-Syntax error: Invalid CSS after "}": expected "}", was ""
-        on line 54 of /Users/apc/Documents/Teaching/Phil355F14/octopress/sass/custom/_layout.scss
+Syntax error: Invalid CSS after "}": expected selector or at-rule, was "}"
+        on line 32 of /Users/apc/Documents/Teaching/Phil355F14/octopress/sass/custom/_layout.scss
         from line 7 of /Users/apc/Documents/Teaching/Phil355F14/octopress/sass/screen.scss
 
 Backtrace:
-/Users/apc/Documents/Teaching/Phil355F14/octopress/sass/custom/_layout.scss:54
+/Users/apc/Documents/Teaching/Phil355F14/octopress/sass/custom/_layout.scss:32
 /Users/apc/Documents/Teaching/Phil355F14/octopress/sass/screen.scss:7
 /Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:1010:in `expected'
 /Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:956:in `expected'
-/Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:951:in `tok!'
-/Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:463:in `block'
-/Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:456:in `ruleset'
-/Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:480:in `block_child'
-/Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:473:in `block_contents'
-/Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:58:in `stylesheet'
-/Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:27:in `parse'
+/Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/scss/parser.rb:28:in `parse'
 /Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/engine.rb:327:in `_to_tree'
 /Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/engine.rb:259:in `to_tree'
 /Users/apc/.rbenv/versions/1.9.3-p194/lib/ruby/gems/1.9.1/gems/sass-3.1.20/lib/sass/tree/visitors/perform.rb:144:in `visit_import'
@@ -59,4 +53,4 @@ Backtrace:
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Invalid CSS after \"}\": expected \"}\", was \"\"\A         on line 54 of /Users/apc/Documents/Teaching/Phil355F14/octopress/sass/custom/_layout.scss\A         from line 7 of /Users/apc/Documents/Teaching/Phil355F14/octopress/sass/screen.scss"; }
+  content: "Syntax error: Invalid CSS after \"}\": expected selector or at-rule, was \"}\"\A         on line 32 of /Users/apc/Documents/Teaching/Phil355F14/octopress/sass/custom/_layout.scss\A         from line 7 of /Users/apc/Documents/Teaching/Phil355F14/octopress/sass/screen.scss"; }
