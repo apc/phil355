@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Phil 355]]></title>
-  <link href="http://apc.github.io/phil355/atom.xml" rel="self"/>
+  <title><![CDATA[Category: announcements | Phil 355]]></title>
+  <link href="http://apc.github.io/phil355/blog/categories/announcements/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil355/"/>
   <updated>2013-08-19T15:01:15-04:00</updated>
   <id>http://apc.github.io/phil355/</id>
