@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Welcome"
+date: 2013-08-19 14:45
+comments: false
+categories: [announcements]
+---
+
+This is the website for PHIL 355 at [UMass Amherst](http://www.umass.edu). Announcements, readings, and other relevant information will be posted here. If you are enrolled in this class, you should be checking [this website](http://perezcarballo.org/phil355) regularly, as well as the [course calendar](http://perezcarballo.org/phil355/calendar).
+
+For your convenience, I have set up a mailing list for this course. I encourage you to subscribe in order to be notified of announcements on this site. Note, however, that you will only be notified of updates to the site once a day. (If there are no new updates on a given day, you will receive no emails.)
+
+<!-- more -->
+
+I have also set up a [Moodle page]() for this website. However, we will only use that page for two purposes: you will submit your assignments there, and you will be able to review your grades for the course. If I ever need you to check the [Moodle page]() I will make sure to make an announcement [on this page](). 
+
+If you are enrolled in this class, or are thinking about enrolling, you may want to take a look at the [course syllabus](). (N.B.: I will not distribute paper copies on the first day of class.)

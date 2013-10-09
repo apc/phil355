@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Reminder"
+date: 2013-10-02 09:19
+comments: true
+categories: 
+---
+
+As I mentioned in class on Tuesday, there are no additional readings for Thursday. But please make sure to go over the [Kripke reading](http://perezcarballo.org/phil355/readings) once again. 
