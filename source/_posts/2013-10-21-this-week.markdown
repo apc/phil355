@@ -1,0 +1,14 @@
+---
+layout: post
+title: "This week"
+date: 2013-10-21 08:45
+comments: true
+categories: 
+---
+
+A few things: 
+
+- There will be no class on Thursday, 10/24. 
+- For similar reasons, I will not be holding office hours on Thursday, 10/24. 
+- **However**, I *will* be holding office hours tomorrow from 10.45 until 12, in the usual place.
+- Finally, if it is not too inconvenient, please bring your laptop with you to class tomorrow. 
