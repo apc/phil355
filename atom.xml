@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 355]]></title>
   <link href="http://apc.github.io/phil355/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil355/"/>
-  <updated>2013-10-08T13:10:47-04:00</updated>
+  <updated>2013-10-21T08:50:42-04:00</updated>
   <id>http://apc.github.io/phil355/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[This week]]></title>
+    <link href="http://apc.github.io/phil355/blog/2013/10/21/this-week/"/>
+    <updated>2013-10-21T08:45:00-04:00</updated>
+    <id>http://apc.github.io/phil355/blog/2013/10/21/this-week</id>
+    <content type="html"><![CDATA[<p>A few things:</p>
+
+<ul>
+<li>There will be no class on Thursday, 10/24.</li>
+<li>For similar reasons, I will not be holding office hours on Thursday, 10/24.</li>
+<li><strong>However</strong>, I <em>will</em> be holding office hours tomorrow from 10.45 until 12, in the usual place.</li>
+<li>Finally, if it is not too inconvenient, please bring your laptop with you to class tomorrow.</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Reminder]]></title>
