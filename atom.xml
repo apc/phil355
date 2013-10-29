@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 355]]></title>
   <link href="http://apc.github.io/phil355/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil355/"/>
-  <updated>2013-10-29T15:32:06-04:00</updated>
+  <updated>2013-10-29T15:34:28-04:00</updated>
   <id>http://apc.github.io/phil355/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Turing Machine simulator]]></title>
+    <link href="http://apc.github.io/phil355/blog/2013/10/29/turing-machine-simulator/"/>
+    <updated>2013-10-29T15:32:00-04:00</updated>
+    <id>http://apc.github.io/phil355/blog/2013/10/29/turing-machine-simulator</id>
+    <content type="html"><![CDATA[<p>The Turing Machine simulator we use in class last week is available <a href="http://db.ing.puc.cl/turingmachine/">here</a>. Check it out!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A few updates]]></title>
