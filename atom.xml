@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 355]]></title>
   <link href="http://apc.github.io/phil355/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil355/"/>
-  <updated>2013-10-29T15:25:51-04:00</updated>
+  <updated>2013-10-29T15:32:06-04:00</updated>
   <id>http://apc.github.io/phil355/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A few updates]]></title>
+    <link href="http://apc.github.io/phil355/blog/2013/10/29/a-few-updates/"/>
+    <updated>2013-10-29T15:26:00-04:00</updated>
+    <id>http://apc.github.io/phil355/blog/2013/10/29/a-few-updates</id>
+    <content type="html"><![CDATA[<p>First, the <a href="http://perezcarballo.org/phil355/readings/">reading schedule</a> has been updated. Let me know if you have any questions about that.</p>
+
+<p>Second, the second exam will take place on <strong>Tuesday 11/19</strong> (and not on Thursday 11/14, as originally planned). I will update the <a href="http://perezcarballo.org/phil355/calendar/">course calendar</a> accordingly.</p>
+
+<p>Third, I am going to try an experiment. For the next few meetings, I will put up the slides for each class on the <a href="https://moodle.umass.edu/course/view.php?id=9579">Moodle website</a>. This will allow you to review them after class in case you need to. The slides from today&rsquo;s class are available <a href="https://moodle.umass.edu/mod/page/view.php?id=380263">here</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[This week]]></title>
