@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 355]]></title>
   <link href="http://apc.github.io/phil355/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil355/"/>
-  <updated>2013-10-29T15:34:28-04:00</updated>
+  <updated>2013-11-02T13:44:22-04:00</updated>
   <id>http://apc.github.io/phil355/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Updates]]></title>
+    <link href="http://apc.github.io/phil355/blog/2013/11/02/updates/"/>
+    <updated>2013-11-02T13:41:00-04:00</updated>
+    <id>http://apc.github.io/phil355/blog/2013/11/02/updates</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s been a minor update to the <a href="http://perezcarballo.org/readings">reading</a> schedule, as announced in class last Thursday.</p>
+
+<p>Also, there&rsquo;s an extra credit <a href="https://moodle.umass.edu/mod/quiz/view.php?id=380911">assignment</a> on the <a href="https://moodle.umass.edu/course/view.php?id=9579">Moodle website</a>. You have until Monday at 5pm to complete it. Once you start the quiz, you will have ten minutes to complete it.</p>
+
+<p>Let me know if you have any questions.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Turing Machine simulator]]></title>
