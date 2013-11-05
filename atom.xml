@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 355]]></title>
   <link href="http://apc.github.io/phil355/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil355/"/>
-  <updated>2013-11-02T13:44:22-04:00</updated>
+  <updated>2013-11-05T16:37:19-05:00</updated>
   <id>http://apc.github.io/phil355/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New online Quiz]]></title>
+    <link href="http://apc.github.io/phil355/blog/2013/11/05/new-quiz-online/"/>
+    <updated>2013-11-05T16:31:00-05:00</updated>
+    <id>http://apc.github.io/phil355/blog/2013/11/05/new-quiz-online</id>
+    <content type="html"><![CDATA[<p>There&rsquo;s a <a href="https://moodle.umass.edu/mod/quiz/view.php?id=383090">new quiz</a> for you to take on the <a href="https://moodle.umass.edu/course/view.php?id=9579">Moodle site</a>. Make sure you re-read Dretske&rsquo;s paper before taking it. You will have 20 minutes to complete the quiz. You have until Friday at 5pm to complete it.</p>
+
+<p>Also, on Thursday we will finish up our discussion of Dretske before moving on to discuss the <a href="http://perezcarballo.org/phil355/readings/">assigned reading</a> for that day.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Updates]]></title>
