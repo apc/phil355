@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 355]]></title>
   <link href="http://apc.github.io/phil355/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil355/"/>
-  <updated>2013-11-05T21:48:00-05:00</updated>
+  <updated>2013-11-12T14:11:37-05:00</updated>
   <id>http://apc.github.io/phil355/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Reminders]]></title>
+    <link href="http://apc.github.io/phil355/blog/2013/11/12/reminders/"/>
+    <updated>2013-11-12T14:07:00-05:00</updated>
+    <id>http://apc.github.io/phil355/blog/2013/11/12/reminders</id>
+    <content type="html"><![CDATA[<p>A few things:</p>
+
+<ul>
+<li>The second exam is on Tuesday, 11/19. The exam will have the same structure as the first exam. I will announce four essay questions, from which I will chose one, on Thursday.</li>
+<li>If you have not done so, I recommend you re-read Lewis&#8217; &lsquo;<a href="https://www.dropbox.com/s/huqdbi4q67mziab/Lewis_MPMP.pdf">Mad Pain and Martian Pain</a>&rsquo;.</li>
+<li>For Thursday, please read Block&rsquo;s &lsquo;Troubles with Functionalism&rsquo; (Chalmers).</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Update on readings for Thursday]]></title>
