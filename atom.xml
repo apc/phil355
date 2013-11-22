@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 355]]></title>
   <link href="http://apc.github.io/phil355/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil355/"/>
-  <updated>2013-11-15T10:19:26-05:00</updated>
+  <updated>2013-11-22T17:23:33-05:00</updated>
   <id>http://apc.github.io/phil355/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Paper topics]]></title>
+    <link href="http://apc.github.io/phil355/blog/2013/11/22/paper-topics/"/>
+    <updated>2013-11-22T17:20:00-05:00</updated>
+    <id>http://apc.github.io/phil355/blog/2013/11/22/paper-topics</id>
+    <content type="html"><![CDATA[<p>The topics for the final paper are now <a href="https://moodle.umass.edu/mod/turnitintool/view.php?id=380900">on the Moodle site</a>. Please take a look before our next meeting. I will then answer any questions about the paper in class.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[More slides]]></title>
