@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 355]]></title>
   <link href="http://apc.github.io/phil355/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil355/"/>
-  <updated>2013-11-22T17:23:33-05:00</updated>
+  <updated>2013-12-04T11:02:26-05:00</updated>
   <id>http://apc.github.io/phil355/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Extra credit]]></title>
+    <link href="http://apc.github.io/phil355/blog/2013/12/04/extra-credit/"/>
+    <updated>2013-12-04T11:00:00-05:00</updated>
+    <id>http://apc.github.io/phil355/blog/2013/12/04/extra-credit</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve added three extra credit assignments to the <a href="https://moodle.umass.edu/course/view.php?id=9579">Moodle site</a>. Each one of them will help you writing a better paper, so don&rsquo;t miss out on the opportunity!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Paper topics]]></title>
