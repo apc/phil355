@@ -81,15 +81,65 @@ Nothing to read, but I recommend you listen to [this episode](http://www.radiola
 - Kim, continue with chapter 5, up until the end of 'Can Machines Think? The Turing Test'.
 
 
-## Readings for 10/24
+## Readings for 10/29
 
 - Searle, [Minds, Brains, and Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)
 - Kim, finish chapter 5. 
 
 ## Readings for 10/31
 
+- Dretske, 'A recipe for thought'. (Chalmers)
+- Kim, Chapter 8, until the end of 'The Causal-Correlational Approach', skipping the section titled 'Interpretation Theory'.
+
+## Readings for 11/5
+
+- <del>Millikan, 'Biosemantics'. (Chalmers)</del>
+- Dretske, 'A recipe for thought'. (Chalmers)
+- Kim, Chapter 8: 'Misrepresentation and the Teleological Approach'.
+
+## Readings for 11/7
+
+- Lewis, '[Mad Pain and Martian Pain](https://www.dropbox.com/s/huqdbi4q67mziab/Lewis_MPMP.pdf)'. 
 - Lewis, 'Psychophysical and Theoretical Identifications'. (Chalmers)
-- Kim, chapter 6, 
+- Kim, chapter 6, until the end of 'Functionalism as Physicalism: Psychological Reality'.
+
+## Readings for 11/12
+
+- Lewis, '[Mad Pain and Martian Pain](https://www.dropbox.com/s/huqdbi4q67mziab/Lewis_MPMP.pdf)'. 
+- Kim, finish chapter 6.
+
+## Readings for 11/14
+
+- Block, 'Troubles with Functionalism'. (Chalmers)
+
+
+## Readings for 11/21
+
+- Nagel, 'What is it like to be a bat'. (Chalmers)
+- Kim, Chapter 9, until the end of 'Consciousness and Subjectivity'.
+
+
+## Readings for 11/26
+
+- Jackson, 'Epiphenomenal Qualia' (Chalmers)
+
+## Readings for 12/3
+
+- Lewis, 'What Experience Teaches'. (Chalmers)
+
+## Readings for 12/6
+
+- Levine, 'Materialism and Qualia: The Explanatory Gap' (Chalmers)
+- Kim, Chapter 10.
+
+<!-- - Stoljar, 'Two conceptions of the physical'. (Chalmers) -->
+<!-- - Kim, finish Chapter 10. -->
+
+
+<!-- ## Readings for 11/5
+
+- Lewis, 'Psychophysical and Theoretical Identifications'. (Chalmers)
+- Kim, chapter 6. --> 
 
 
 

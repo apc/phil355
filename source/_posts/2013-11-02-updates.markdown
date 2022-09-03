@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Updates"
+date: 2013-11-02 13:41
+comments: true
+categories: 
+---
+
+There's been a minor update to the [reading](http://perezcarballo.org/readings) schedule, as announced in class last Thursday. 
+
+Also, there's an extra credit [assignment](https://moodle.umass.edu/mod/quiz/view.php?id=380911) on the [Moodle website](https://moodle.umass.edu/course/view.php?id=9579). You have until Monday at 5pm to complete it. Once you start the quiz, you will have ten minutes to complete it. 
+
+Let me know if you have any questions.
